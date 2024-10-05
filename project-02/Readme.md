@@ -17,7 +17,7 @@ The Prediction Market project aims to create a decentralized platform where user
 ## Contract Address
 
 - **Network**: Aptos Mainnet/Testnet
-- **Contract Address**: `0x4420a900882be89f9c8b53a583bffa017e6bedb4e57cf9b0fa7b52fd90a08aa6` (Replace with the actual contract address once deployed)
+- **Contract Address**: `0x8c0b1e17b34aacc2fc14358a6e62e09491ed5428311acbdde700cea58e210b83` (Replace with the actual contract address once deployed)
 
 ## How It Works
 
