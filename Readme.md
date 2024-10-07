@@ -1,4 +1,3 @@
-Certainly! Below is the README file for your `PredictionMarket` smart contract:
 
 ---
 
@@ -52,4 +51,4 @@ Contributions are welcome! If you have suggestions for improving the Prediction 
 
 ---
 
-Feel free to modify and expand the README as your project evolves and new features are added!
+
